@@ -3,7 +3,7 @@
 ###############################################################################
 * text=auto
 
-*.razor.js linguist-language=C#  
+*.js linguist-language=C#
 
 ###############################################################################
 # Set default behavior for command prompt diff.
